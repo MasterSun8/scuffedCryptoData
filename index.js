@@ -1,5 +1,6 @@
 const fs = require('fs')
-const log = 'eo.json'
+const { cursorTo } = require('readline')
+const log = 'eoeo.json'
 const start = new Date("01/01/2022")
 const end = new Date("12/31/2022")
 
@@ -22,18 +23,24 @@ function randVal(x){
     return Math.random() * x
 }
 
-fs.readFile(log, 'utf8', (err, data) => {
-    if (err){
-        console.log(err)
-      } else {
-        let obj = JSON.parse(data)
-        let loop = new Date(start)
-        while (loop <= end) {
-            obj.push({crypto: 'tether', data: todayDate('d', loop), wartosc: randVal(100)})
-            let newDate = loop.setDate(loop.getDate() + 1)
-            loop = new Date(newDate)
-        }
-        let json = JSON.stringify(obj, null, "\t")
-        fs.writeFileSync(log, json)
-      }
-})
+function newCrypto(crypto){
+    fs.readFile(log, 'utf8', (err, data) => {
+        if (err){
+            console.log(err)
+          } else {
+            let obj = JSON.parse(data)
+            crypto.forEach(element => {
+                let loop = new Date(start)
+                while (loop <= end) {
+                    obj.push({crypto: element, data: todayDate('d', loop), wartosc: randVal(100)})
+                    let newDate = loop.setDate(loop.getDate() + 1)
+                    loop = new Date(newDate)
+            }  
+            })
+            let json = JSON.stringify(obj, null, "\t")
+            fs.writeFileSync(log, json)
+          }
+    })
+}
+
+newCrypto(['btc', 'eth', 'teth', 'xrp', 'avax'])
