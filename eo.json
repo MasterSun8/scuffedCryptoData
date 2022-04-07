@@ -1,0 +1,7302 @@
+[
+	{
+		"crypto": "doge",
+		"data": "2022-01-1",
+		"wartosc": 81.35242108276177
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-01-2",
+		"wartosc": 10.193189314967332
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-01-3",
+		"wartosc": 98.67708938077959
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-01-4",
+		"wartosc": 4.664336771670929
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-01-5",
+		"wartosc": 94.07146013090968
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-01-6",
+		"wartosc": 75.54565939492053
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-01-7",
+		"wartosc": 84.7864259373745
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-01-8",
+		"wartosc": 51.68227684449149
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-01-9",
+		"wartosc": 30.94579067461771
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-01-10",
+		"wartosc": 37.207574593574286
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-01-11",
+		"wartosc": 24.871077380421603
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-01-12",
+		"wartosc": 4.387729420048347
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-01-13",
+		"wartosc": 94.4561215755707
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-01-14",
+		"wartosc": 96.96555150702302
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-01-15",
+		"wartosc": 98.18017420525725
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-01-16",
+		"wartosc": 81.61332400088226
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-01-17",
+		"wartosc": 68.13107160036553
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-01-18",
+		"wartosc": 59.68106865417442
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-01-19",
+		"wartosc": 91.17806999867784
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-01-20",
+		"wartosc": 38.56235831533661
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-01-21",
+		"wartosc": 26.85498965104638
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-01-22",
+		"wartosc": 43.26571564981252
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-01-23",
+		"wartosc": 49.43085112429664
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-01-24",
+		"wartosc": 15.106644802628754
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-01-25",
+		"wartosc": 12.781339540201596
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-01-26",
+		"wartosc": 24.77851181664754
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-01-27",
+		"wartosc": 13.959899377815855
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-01-28",
+		"wartosc": 6.222642363722941
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-01-29",
+		"wartosc": 10.824456433906061
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-01-30",
+		"wartosc": 98.66789471362813
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-01-31",
+		"wartosc": 99.32267784160453
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-02-1",
+		"wartosc": 89.46567661384496
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-02-2",
+		"wartosc": 37.1228607496952
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-02-3",
+		"wartosc": 14.995737205601788
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-02-4",
+		"wartosc": 0.11572209780863485
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-02-5",
+		"wartosc": 72.71440755835377
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-02-6",
+		"wartosc": 30.962025615522194
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-02-7",
+		"wartosc": 61.39492282216325
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-02-8",
+		"wartosc": 34.961599666079636
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-02-9",
+		"wartosc": 62.61104815112992
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-02-10",
+		"wartosc": 40.63492500251029
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-02-11",
+		"wartosc": 40.21548846462546
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-02-12",
+		"wartosc": 57.37155210992748
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-02-13",
+		"wartosc": 15.066085138339202
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-02-14",
+		"wartosc": 13.907964147133779
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-02-15",
+		"wartosc": 33.29905645038069
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-02-16",
+		"wartosc": 44.3095568470957
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-02-17",
+		"wartosc": 28.906922708854843
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-02-18",
+		"wartosc": 8.892681341458196
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-02-19",
+		"wartosc": 43.69589328402732
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-02-20",
+		"wartosc": 47.06026322204811
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-02-21",
+		"wartosc": 46.71919793983037
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-02-22",
+		"wartosc": 84.16675145691428
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-02-23",
+		"wartosc": 91.97701567759368
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-02-24",
+		"wartosc": 27.768903742109718
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-02-25",
+		"wartosc": 69.09250153704424
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-02-26",
+		"wartosc": 85.05000091626246
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-02-27",
+		"wartosc": 69.6572644185901
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-02-28",
+		"wartosc": 38.97987641996971
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-03-1",
+		"wartosc": 10.230908341289702
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-03-2",
+		"wartosc": 86.98029105188154
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-03-3",
+		"wartosc": 99.97717418789507
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-03-4",
+		"wartosc": 46.28901887436214
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-03-5",
+		"wartosc": 63.18577715716764
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-03-6",
+		"wartosc": 9.5303055200187
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-03-7",
+		"wartosc": 97.13432252430825
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-03-8",
+		"wartosc": 84.64142346690463
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-03-9",
+		"wartosc": 34.67898931126119
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-03-10",
+		"wartosc": 59.63965769707369
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-03-11",
+		"wartosc": 45.20703199392222
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-03-12",
+		"wartosc": 15.661344071889438
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-03-13",
+		"wartosc": 0.7256788417248083
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-03-14",
+		"wartosc": 47.57714644083069
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-03-15",
+		"wartosc": 65.57572930036437
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-03-16",
+		"wartosc": 5.014083663619995
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-03-17",
+		"wartosc": 71.25816482042042
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-03-18",
+		"wartosc": 32.274698099730315
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-03-19",
+		"wartosc": 31.699558618611622
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-03-20",
+		"wartosc": 75.48435640137039
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-03-21",
+		"wartosc": 29.29609841171965
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-03-22",
+		"wartosc": 7.743389535040235
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-03-23",
+		"wartosc": 21.393304314134397
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-03-24",
+		"wartosc": 65.16563313853425
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-03-25",
+		"wartosc": 36.37959720641702
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-03-26",
+		"wartosc": 60.3062317505644
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-03-27",
+		"wartosc": 18.643211246229207
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-03-28",
+		"wartosc": 54.47464281106955
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-03-29",
+		"wartosc": 21.750218578546864
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-03-30",
+		"wartosc": 44.120535820583925
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-03-31",
+		"wartosc": 21.745377079017135
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-04-1",
+		"wartosc": 34.033752254918404
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-04-2",
+		"wartosc": 29.729714084677127
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-04-3",
+		"wartosc": 71.8919710810757
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-04-4",
+		"wartosc": 51.85859728713058
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-04-5",
+		"wartosc": 97.37789358489295
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-04-6",
+		"wartosc": 44.36594304134724
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-04-7",
+		"wartosc": 39.53918134249663
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-04-8",
+		"wartosc": 74.20726610939485
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-04-9",
+		"wartosc": 59.55568853352862
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-04-10",
+		"wartosc": 1.3204950343432165
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-04-11",
+		"wartosc": 22.386558463040274
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-04-12",
+		"wartosc": 61.05757534397422
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-04-13",
+		"wartosc": 74.860121060549
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-04-14",
+		"wartosc": 69.15575949881223
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-04-15",
+		"wartosc": 27.18576543080571
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-04-16",
+		"wartosc": 57.302491652107165
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-04-17",
+		"wartosc": 68.29180093380465
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-04-18",
+		"wartosc": 97.10861169650376
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-04-19",
+		"wartosc": 53.126750807065434
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-04-20",
+		"wartosc": 32.03413647604527
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-04-21",
+		"wartosc": 65.39904463193555
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-04-22",
+		"wartosc": 18.37639633473853
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-04-23",
+		"wartosc": 23.28971270465847
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-04-24",
+		"wartosc": 18.796481403568666
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-04-25",
+		"wartosc": 18.959727651989454
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-04-26",
+		"wartosc": 16.57742461669198
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-04-27",
+		"wartosc": 70.54681397873853
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-04-28",
+		"wartosc": 29.1965464289788
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-04-29",
+		"wartosc": 63.42541410007618
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-04-30",
+		"wartosc": 65.49458872954817
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-05-1",
+		"wartosc": 2.2309303405342984
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-05-2",
+		"wartosc": 84.4672617562078
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-05-3",
+		"wartosc": 50.30684905415279
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-05-4",
+		"wartosc": 74.99663713543458
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-05-5",
+		"wartosc": 44.165972533721984
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-05-6",
+		"wartosc": 78.264928176671
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-05-7",
+		"wartosc": 12.363954211039129
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-05-8",
+		"wartosc": 48.39608278595327
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-05-9",
+		"wartosc": 59.770630045379924
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-05-10",
+		"wartosc": 32.58512356974303
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-05-11",
+		"wartosc": 99.25073629659124
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-05-12",
+		"wartosc": 94.64180912876313
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-05-13",
+		"wartosc": 97.13170476984428
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-05-14",
+		"wartosc": 48.5841567861534
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-05-15",
+		"wartosc": 87.90026185128403
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-05-16",
+		"wartosc": 86.27243348119163
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-05-17",
+		"wartosc": 58.920176840936556
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-05-18",
+		"wartosc": 93.40043836648542
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-05-19",
+		"wartosc": 73.57992853838999
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-05-20",
+		"wartosc": 29.874612355564125
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-05-21",
+		"wartosc": 52.16931652578391
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-05-22",
+		"wartosc": 78.53132490947704
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-05-23",
+		"wartosc": 40.939213535272366
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-05-24",
+		"wartosc": 27.7704823209884
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-05-25",
+		"wartosc": 38.92407773511968
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-05-26",
+		"wartosc": 43.945471392892244
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-05-27",
+		"wartosc": 4.164148566701109
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-05-28",
+		"wartosc": 31.134166829944743
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-05-29",
+		"wartosc": 86.8319106912352
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-05-30",
+		"wartosc": 39.61751407874521
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-05-31",
+		"wartosc": 68.07475189647751
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-06-1",
+		"wartosc": 7.206998456521618
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-06-2",
+		"wartosc": 0.4687516493909305
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-06-3",
+		"wartosc": 8.74800706025054
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-06-4",
+		"wartosc": 92.99356906092495
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-06-5",
+		"wartosc": 15.20880305217407
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-06-6",
+		"wartosc": 54.100099322397966
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-06-7",
+		"wartosc": 51.11025787336916
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-06-8",
+		"wartosc": 80.01999577708654
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-06-9",
+		"wartosc": 36.711610292886654
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-06-10",
+		"wartosc": 96.79207088981619
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-06-11",
+		"wartosc": 38.97238718169571
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-06-12",
+		"wartosc": 97.44582686017054
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-06-13",
+		"wartosc": 13.013800786959951
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-06-14",
+		"wartosc": 21.07419883066257
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-06-15",
+		"wartosc": 6.596720416683133
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-06-16",
+		"wartosc": 51.10847539152989
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-06-17",
+		"wartosc": 29.372428032459496
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-06-18",
+		"wartosc": 51.221970225606505
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-06-19",
+		"wartosc": 37.29615916588082
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-06-20",
+		"wartosc": 90.49551766110535
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-06-21",
+		"wartosc": 60.49858490901789
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-06-22",
+		"wartosc": 81.04798431465655
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-06-23",
+		"wartosc": 52.21328512735999
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-06-24",
+		"wartosc": 7.15734178727645
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-06-25",
+		"wartosc": 36.74478279019231
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-06-26",
+		"wartosc": 55.762609956422125
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-06-27",
+		"wartosc": 87.57734526357284
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-06-28",
+		"wartosc": 82.91083251577037
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-06-29",
+		"wartosc": 26.093595788991266
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-06-30",
+		"wartosc": 6.3574257675893975
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-07-1",
+		"wartosc": 34.821498937960406
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-07-2",
+		"wartosc": 44.50137878569775
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-07-3",
+		"wartosc": 58.15353077334278
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-07-4",
+		"wartosc": 17.009041398780877
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-07-5",
+		"wartosc": 71.12755818561945
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-07-6",
+		"wartosc": 55.419314664862384
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-07-7",
+		"wartosc": 85.38945770441883
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-07-8",
+		"wartosc": 41.880693866103535
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-07-9",
+		"wartosc": 2.40947862720311
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-07-10",
+		"wartosc": 54.98384097008848
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-07-11",
+		"wartosc": 42.19068172014189
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-07-12",
+		"wartosc": 51.31748388068411
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-07-13",
+		"wartosc": 66.86595331471183
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-07-14",
+		"wartosc": 67.20823666540483
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-07-15",
+		"wartosc": 92.48198177086525
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-07-16",
+		"wartosc": 22.244566318017036
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-07-17",
+		"wartosc": 27.944917405578494
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-07-18",
+		"wartosc": 62.543784054156326
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-07-19",
+		"wartosc": 79.93264399511955
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-07-20",
+		"wartosc": 92.21885803429082
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-07-21",
+		"wartosc": 48.35488030183761
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-07-22",
+		"wartosc": 40.44606612727053
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-07-23",
+		"wartosc": 77.60569876568641
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-07-24",
+		"wartosc": 31.482576659103543
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-07-25",
+		"wartosc": 4.5940353508203025
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-07-26",
+		"wartosc": 29.390979577025654
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-07-27",
+		"wartosc": 42.658962951788595
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-07-28",
+		"wartosc": 60.20869892874578
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-07-29",
+		"wartosc": 10.853420797180968
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-07-30",
+		"wartosc": 11.066551401456625
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-07-31",
+		"wartosc": 76.36642180787776
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-08-1",
+		"wartosc": 73.99832467854837
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-08-2",
+		"wartosc": 7.020395244791677
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-08-3",
+		"wartosc": 55.99759983845733
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-08-4",
+		"wartosc": 5.006141329596958
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-08-5",
+		"wartosc": 14.403100653217326
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-08-6",
+		"wartosc": 42.358139361048266
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-08-7",
+		"wartosc": 88.73221481177099
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-08-8",
+		"wartosc": 38.26190152818298
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-08-9",
+		"wartosc": 78.17923179665158
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-08-10",
+		"wartosc": 91.79002359361239
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-08-11",
+		"wartosc": 21.076036578686374
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-08-12",
+		"wartosc": 39.72967540516117
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-08-13",
+		"wartosc": 96.55727927724212
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-08-14",
+		"wartosc": 9.893578839802576
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-08-15",
+		"wartosc": 94.54893006331797
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-08-16",
+		"wartosc": 66.36038137253892
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-08-17",
+		"wartosc": 4.397348345733398
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-08-18",
+		"wartosc": 71.23568155757123
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-08-19",
+		"wartosc": 79.34231115528175
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-08-20",
+		"wartosc": 10.987334017469097
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-08-21",
+		"wartosc": 25.322229784461992
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-08-22",
+		"wartosc": 83.30699846696388
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-08-23",
+		"wartosc": 53.52491273395328
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-08-24",
+		"wartosc": 74.2622004062148
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-08-25",
+		"wartosc": 42.09878877148361
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-08-26",
+		"wartosc": 73.82343305019059
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-08-27",
+		"wartosc": 14.538168257945628
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-08-28",
+		"wartosc": 16.655119667122676
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-08-29",
+		"wartosc": 24.232413694756705
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-08-30",
+		"wartosc": 75.32690560871838
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-08-31",
+		"wartosc": 6.462668549995443
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-09-1",
+		"wartosc": 1.4370301710755262
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-09-2",
+		"wartosc": 97.16486835884852
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-09-3",
+		"wartosc": 36.55077994365323
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-09-4",
+		"wartosc": 15.858013076100264
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-09-5",
+		"wartosc": 57.41975195560305
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-09-6",
+		"wartosc": 54.91688507320849
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-09-7",
+		"wartosc": 96.73576251598162
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-09-8",
+		"wartosc": 68.8432668830114
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-09-9",
+		"wartosc": 68.93386803021448
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-09-10",
+		"wartosc": 78.31730582900596
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-09-11",
+		"wartosc": 13.110427259795877
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-09-12",
+		"wartosc": 75.67504832188202
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-09-13",
+		"wartosc": 50.87732533373526
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-09-14",
+		"wartosc": 33.53821591348132
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-09-15",
+		"wartosc": 35.34824844733049
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-09-16",
+		"wartosc": 78.61735554850308
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-09-17",
+		"wartosc": 68.46456809357848
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-09-18",
+		"wartosc": 79.23377364946695
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-09-19",
+		"wartosc": 58.76356307365869
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-09-20",
+		"wartosc": 60.083732260997124
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-09-21",
+		"wartosc": 49.124961462393514
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-09-22",
+		"wartosc": 79.52351791428435
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-09-23",
+		"wartosc": 55.808010349583846
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-09-24",
+		"wartosc": 8.822409243866524
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-09-25",
+		"wartosc": 47.67597775338373
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-09-26",
+		"wartosc": 56.53359871955301
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-09-27",
+		"wartosc": 25.63151918159012
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-09-28",
+		"wartosc": 83.175051481878
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-09-29",
+		"wartosc": 85.78626284960171
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-09-30",
+		"wartosc": 11.546696116830347
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-10-1",
+		"wartosc": 7.930908462394415
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-10-2",
+		"wartosc": 8.86029151371115
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-10-3",
+		"wartosc": 96.9882247345631
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-10-4",
+		"wartosc": 31.08294762031374
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-10-5",
+		"wartosc": 17.76355032951107
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-10-6",
+		"wartosc": 26.61364259160255
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-10-7",
+		"wartosc": 91.81695591343893
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-10-8",
+		"wartosc": 24.711317589064485
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-10-9",
+		"wartosc": 18.15185519962197
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-10-10",
+		"wartosc": 40.490823547071855
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-10-11",
+		"wartosc": 93.85667711506088
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-10-12",
+		"wartosc": 65.63463508716876
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-10-13",
+		"wartosc": 38.488951083044356
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-10-14",
+		"wartosc": 58.23376623925463
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-10-15",
+		"wartosc": 35.695739695437446
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-10-16",
+		"wartosc": 79.24383900404078
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-10-17",
+		"wartosc": 49.576651274120124
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-10-18",
+		"wartosc": 65.17788259899642
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-10-19",
+		"wartosc": 5.047331231579033
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-10-20",
+		"wartosc": 80.01437666376201
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-10-21",
+		"wartosc": 77.16875102793867
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-10-22",
+		"wartosc": 90.6235686802372
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-10-23",
+		"wartosc": 3.1373997441608736
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-10-24",
+		"wartosc": 32.20146585241894
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-10-25",
+		"wartosc": 37.052202445380544
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-10-26",
+		"wartosc": 47.43576598603156
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-10-27",
+		"wartosc": 57.7040279309488
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-10-28",
+		"wartosc": 30.669422649338784
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-10-29",
+		"wartosc": 53.818813943819066
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-10-30",
+		"wartosc": 17.87141461489319
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-10-31",
+		"wartosc": 3.010364048903247
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-11-1",
+		"wartosc": 96.47848440961018
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-11-2",
+		"wartosc": 10.056017756650482
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-11-3",
+		"wartosc": 83.24731860173935
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-11-4",
+		"wartosc": 38.62928963622536
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-11-5",
+		"wartosc": 67.85305860914048
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-11-6",
+		"wartosc": 0.6690836930171695
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-11-7",
+		"wartosc": 38.25163608099884
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-11-8",
+		"wartosc": 75.85709851326743
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-11-9",
+		"wartosc": 94.85888858540336
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-11-10",
+		"wartosc": 23.246837192728066
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-11-11",
+		"wartosc": 8.082435927138686
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-11-12",
+		"wartosc": 48.62863213324897
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-11-13",
+		"wartosc": 99.53942997958072
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-11-14",
+		"wartosc": 36.979017966538194
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-11-15",
+		"wartosc": 56.36152253464306
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-11-16",
+		"wartosc": 61.696461731210775
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-11-17",
+		"wartosc": 45.92062113561952
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-11-18",
+		"wartosc": 38.164204574695844
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-11-19",
+		"wartosc": 23.309113811061334
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-11-20",
+		"wartosc": 44.76127813367867
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-11-21",
+		"wartosc": 76.73099699083363
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-11-22",
+		"wartosc": 46.415457137143434
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-11-23",
+		"wartosc": 15.974397693954433
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-11-24",
+		"wartosc": 19.390957782536212
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-11-25",
+		"wartosc": 42.573147534180336
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-11-26",
+		"wartosc": 86.24096520334028
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-11-27",
+		"wartosc": 10.014827996443332
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-11-28",
+		"wartosc": 73.15354934548431
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-11-29",
+		"wartosc": 29.089020591561
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-11-30",
+		"wartosc": 9.5067252121257
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-12-1",
+		"wartosc": 91.50443935684818
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-12-2",
+		"wartosc": 81.43308322788685
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-12-3",
+		"wartosc": 32.41945993101096
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-12-4",
+		"wartosc": 88.70119310938733
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-12-5",
+		"wartosc": 78.72223222700694
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-12-6",
+		"wartosc": 0.39973461857492065
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-12-7",
+		"wartosc": 49.89301819497991
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-12-8",
+		"wartosc": 16.87032382688387
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-12-9",
+		"wartosc": 48.79695365134029
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-12-10",
+		"wartosc": 34.03446678918203
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-12-11",
+		"wartosc": 97.1372106753762
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-12-12",
+		"wartosc": 91.77657689322616
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-12-13",
+		"wartosc": 3.1491649494867824
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-12-14",
+		"wartosc": 33.693333935723516
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-12-15",
+		"wartosc": 93.31000673430412
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-12-16",
+		"wartosc": 57.84735886998229
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-12-17",
+		"wartosc": 39.33253430181498
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-12-18",
+		"wartosc": 65.83456211648027
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-12-19",
+		"wartosc": 85.17147405949754
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-12-20",
+		"wartosc": 49.69623152728242
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-12-21",
+		"wartosc": 50.342168184848624
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-12-22",
+		"wartosc": 77.94198060012427
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-12-23",
+		"wartosc": 16.397314452154443
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-12-24",
+		"wartosc": 94.3598404523013
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-12-25",
+		"wartosc": 88.08392551933122
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-12-26",
+		"wartosc": 79.85211445974136
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-12-27",
+		"wartosc": 29.78759265183846
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-12-28",
+		"wartosc": 1.0837139059734602
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-12-29",
+		"wartosc": 97.08310021376853
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-12-30",
+		"wartosc": 50.85994566283567
+	},
+	{
+		"crypto": "doge",
+		"data": "2022-12-31",
+		"wartosc": 12.739686395589667
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-01-1",
+		"wartosc": 27.330762213044537
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-01-2",
+		"wartosc": 65.98270322279251
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-01-3",
+		"wartosc": 22.62909211919226
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-01-4",
+		"wartosc": 13.421448477304576
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-01-5",
+		"wartosc": 0.41049843291116606
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-01-6",
+		"wartosc": 77.04625010591228
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-01-7",
+		"wartosc": 27.23140127604666
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-01-8",
+		"wartosc": 66.24217224878122
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-01-9",
+		"wartosc": 61.99393805982931
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-01-10",
+		"wartosc": 55.56732087291212
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-01-11",
+		"wartosc": 36.521545682998145
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-01-12",
+		"wartosc": 42.00989868070981
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-01-13",
+		"wartosc": 63.12857379356531
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-01-14",
+		"wartosc": 78.10700004415266
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-01-15",
+		"wartosc": 23.543099787413624
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-01-16",
+		"wartosc": 98.0495214783797
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-01-17",
+		"wartosc": 36.192448245854855
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-01-18",
+		"wartosc": 37.67297006409185
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-01-19",
+		"wartosc": 23.288858276059976
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-01-20",
+		"wartosc": 86.89085867357238
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-01-21",
+		"wartosc": 78.17942117353994
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-01-22",
+		"wartosc": 51.41736967262416
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-01-23",
+		"wartosc": 41.701270698505375
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-01-24",
+		"wartosc": 20.273838682514935
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-01-25",
+		"wartosc": 21.582799330529447
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-01-26",
+		"wartosc": 57.57606736208778
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-01-27",
+		"wartosc": 92.87140713530229
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-01-28",
+		"wartosc": 30.277206895606447
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-01-29",
+		"wartosc": 28.92336744283388
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-01-30",
+		"wartosc": 3.1038642154118
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-01-31",
+		"wartosc": 13.574176248005143
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-02-1",
+		"wartosc": 37.17886779345925
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-02-2",
+		"wartosc": 52.02795232822055
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-02-3",
+		"wartosc": 77.91484731326936
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-02-4",
+		"wartosc": 97.2492066536373
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-02-5",
+		"wartosc": 41.18130611894919
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-02-6",
+		"wartosc": 27.707789440946318
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-02-7",
+		"wartosc": 32.2192489157062
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-02-8",
+		"wartosc": 93.88904444907863
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-02-9",
+		"wartosc": 92.3275507280227
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-02-10",
+		"wartosc": 75.36961869098123
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-02-11",
+		"wartosc": 15.202534676569224
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-02-12",
+		"wartosc": 37.417992661934704
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-02-13",
+		"wartosc": 83.87910945354855
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-02-14",
+		"wartosc": 41.387902224050336
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-02-15",
+		"wartosc": 37.22258657263984
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-02-16",
+		"wartosc": 3.338506733825275
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-02-17",
+		"wartosc": 51.33280552263524
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-02-18",
+		"wartosc": 1.5267316270759057
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-02-19",
+		"wartosc": 31.616637876504218
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-02-20",
+		"wartosc": 54.97177688569974
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-02-21",
+		"wartosc": 85.58878932692271
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-02-22",
+		"wartosc": 28.609587187482365
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-02-23",
+		"wartosc": 15.105518165575194
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-02-24",
+		"wartosc": 22.291330552063627
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-02-25",
+		"wartosc": 31.743017536109996
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-02-26",
+		"wartosc": 20.795635759593758
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-02-27",
+		"wartosc": 81.00900254749436
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-02-28",
+		"wartosc": 52.96553959081793
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-03-1",
+		"wartosc": 14.448814654401442
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-03-2",
+		"wartosc": 76.57483105469348
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-03-3",
+		"wartosc": 7.510303882869862
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-03-4",
+		"wartosc": 42.389222779774904
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-03-5",
+		"wartosc": 48.29430599344799
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-03-6",
+		"wartosc": 80.66366835261726
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-03-7",
+		"wartosc": 79.32042762624735
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-03-8",
+		"wartosc": 86.6316896263254
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-03-9",
+		"wartosc": 27.26680426931638
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-03-10",
+		"wartosc": 7.637757599573591
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-03-11",
+		"wartosc": 53.809522069122664
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-03-12",
+		"wartosc": 99.0975905204702
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-03-13",
+		"wartosc": 58.94982677880498
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-03-14",
+		"wartosc": 5.87946643733821
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-03-15",
+		"wartosc": 24.744566098641975
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-03-16",
+		"wartosc": 7.624294041491364
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-03-17",
+		"wartosc": 71.36085752629975
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-03-18",
+		"wartosc": 15.915376580547624
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-03-19",
+		"wartosc": 21.79849938780938
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-03-20",
+		"wartosc": 96.34697334084603
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-03-21",
+		"wartosc": 88.69712513274115
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-03-22",
+		"wartosc": 99.27840137722983
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-03-23",
+		"wartosc": 49.60304963393578
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-03-24",
+		"wartosc": 11.523838218419048
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-03-25",
+		"wartosc": 32.9180743193491
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-03-26",
+		"wartosc": 78.24906714160464
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-03-27",
+		"wartosc": 16.177829610839623
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-03-28",
+		"wartosc": 75.6135955760916
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-03-29",
+		"wartosc": 90.48258137676403
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-03-30",
+		"wartosc": 7.635035632696274
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-03-31",
+		"wartosc": 39.222461742195414
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-04-1",
+		"wartosc": 20.488658713326036
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-04-2",
+		"wartosc": 95.47625353750313
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-04-3",
+		"wartosc": 56.75987383990939
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-04-4",
+		"wartosc": 93.45157789524043
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-04-5",
+		"wartosc": 94.56153569657151
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-04-6",
+		"wartosc": 84.54807723734856
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-04-7",
+		"wartosc": 87.01488918753914
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-04-8",
+		"wartosc": 65.7044968814065
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-04-9",
+		"wartosc": 67.3940521871233
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-04-10",
+		"wartosc": 99.69637373183488
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-04-11",
+		"wartosc": 26.501215268514144
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-04-12",
+		"wartosc": 49.97821762793975
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-04-13",
+		"wartosc": 93.23501375184694
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-04-14",
+		"wartosc": 76.66063705107582
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-04-15",
+		"wartosc": 16.279518756124588
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-04-16",
+		"wartosc": 85.86888565912163
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-04-17",
+		"wartosc": 51.961415609353544
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-04-18",
+		"wartosc": 56.754157674036996
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-04-19",
+		"wartosc": 47.683053387768595
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-04-20",
+		"wartosc": 47.764117322586095
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-04-21",
+		"wartosc": 72.40355876515758
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-04-22",
+		"wartosc": 85.95267678998069
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-04-23",
+		"wartosc": 28.17142220697628
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-04-24",
+		"wartosc": 90.51747860764621
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-04-25",
+		"wartosc": 98.84606984786753
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-04-26",
+		"wartosc": 60.21477582764598
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-04-27",
+		"wartosc": 70.0489619977615
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-04-28",
+		"wartosc": 56.524464198236956
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-04-29",
+		"wartosc": 78.45500610869951
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-04-30",
+		"wartosc": 86.17294453760825
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-05-1",
+		"wartosc": 18.738177219758768
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-05-2",
+		"wartosc": 58.89504429196679
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-05-3",
+		"wartosc": 28.52023766580336
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-05-4",
+		"wartosc": 34.177619624958155
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-05-5",
+		"wartosc": 95.68307299913673
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-05-6",
+		"wartosc": 54.64317986895495
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-05-7",
+		"wartosc": 48.33322785193141
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-05-8",
+		"wartosc": 74.67446697183884
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-05-9",
+		"wartosc": 85.41330472938007
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-05-10",
+		"wartosc": 74.82264436713011
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-05-11",
+		"wartosc": 50.56035389656832
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-05-12",
+		"wartosc": 36.949126443160864
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-05-13",
+		"wartosc": 64.72268673988286
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-05-14",
+		"wartosc": 0.3902790998683292
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-05-15",
+		"wartosc": 55.99709945190479
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-05-16",
+		"wartosc": 7.337637125791763
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-05-17",
+		"wartosc": 84.32808269054077
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-05-18",
+		"wartosc": 50.8290204784597
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-05-19",
+		"wartosc": 15.289860351634932
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-05-20",
+		"wartosc": 19.667692081233533
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-05-21",
+		"wartosc": 79.99666750977268
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-05-22",
+		"wartosc": 68.77808936440137
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-05-23",
+		"wartosc": 35.78965846824582
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-05-24",
+		"wartosc": 99.45576289143585
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-05-25",
+		"wartosc": 68.2003265050062
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-05-26",
+		"wartosc": 95.5780940426332
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-05-27",
+		"wartosc": 67.94596872222738
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-05-28",
+		"wartosc": 45.425941659307846
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-05-29",
+		"wartosc": 71.09174040479876
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-05-30",
+		"wartosc": 30.678553098898508
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-05-31",
+		"wartosc": 55.62855550653474
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-06-1",
+		"wartosc": 67.11218856198786
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-06-2",
+		"wartosc": 25.881187985841358
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-06-3",
+		"wartosc": 2.1106830290471112
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-06-4",
+		"wartosc": 12.165502831854402
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-06-5",
+		"wartosc": 86.28800840346128
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-06-6",
+		"wartosc": 29.24798173460912
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-06-7",
+		"wartosc": 3.9558960173072366
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-06-8",
+		"wartosc": 70.76790285449286
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-06-9",
+		"wartosc": 77.59681314628149
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-06-10",
+		"wartosc": 26.284792310174886
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-06-11",
+		"wartosc": 51.46126776566182
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-06-12",
+		"wartosc": 89.28423097360711
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-06-13",
+		"wartosc": 94.10620442462996
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-06-14",
+		"wartosc": 2.0088084675686346
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-06-15",
+		"wartosc": 47.74350598242658
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-06-16",
+		"wartosc": 67.5963380414949
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-06-17",
+		"wartosc": 42.95396482428122
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-06-18",
+		"wartosc": 31.28357608434382
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-06-19",
+		"wartosc": 55.2434526638605
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-06-20",
+		"wartosc": 84.20983603754506
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-06-21",
+		"wartosc": 21.585064276276622
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-06-22",
+		"wartosc": 14.125284784571424
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-06-23",
+		"wartosc": 13.328828731026853
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-06-24",
+		"wartosc": 34.50092516805956
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-06-25",
+		"wartosc": 36.42815533314349
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-06-26",
+		"wartosc": 64.51257021217256
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-06-27",
+		"wartosc": 96.58999513526328
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-06-28",
+		"wartosc": 65.75331661005323
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-06-29",
+		"wartosc": 27.174164099026022
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-06-30",
+		"wartosc": 6.467854850502008
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-07-1",
+		"wartosc": 40.60839651705032
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-07-2",
+		"wartosc": 6.890635511121657
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-07-3",
+		"wartosc": 23.810497421538244
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-07-4",
+		"wartosc": 4.169048740646053
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-07-5",
+		"wartosc": 24.33109321026725
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-07-6",
+		"wartosc": 87.3283972690913
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-07-7",
+		"wartosc": 72.85818286510421
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-07-8",
+		"wartosc": 63.831827341936
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-07-9",
+		"wartosc": 72.41913827748662
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-07-10",
+		"wartosc": 59.56498991886781
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-07-11",
+		"wartosc": 72.55396361670125
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-07-12",
+		"wartosc": 98.25536127939203
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-07-13",
+		"wartosc": 25.30675008433425
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-07-14",
+		"wartosc": 24.996704083628572
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-07-15",
+		"wartosc": 57.451449900600934
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-07-16",
+		"wartosc": 27.377783272945997
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-07-17",
+		"wartosc": 57.039288012312326
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-07-18",
+		"wartosc": 36.0599104437557
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-07-19",
+		"wartosc": 33.69243853189201
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-07-20",
+		"wartosc": 7.7097308669572095
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-07-21",
+		"wartosc": 64.6904215405202
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-07-22",
+		"wartosc": 36.301242317335245
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-07-23",
+		"wartosc": 24.804744448481976
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-07-24",
+		"wartosc": 3.7497093419355476
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-07-25",
+		"wartosc": 29.6442328942921
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-07-26",
+		"wartosc": 45.11980051090303
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-07-27",
+		"wartosc": 37.32386119347557
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-07-28",
+		"wartosc": 34.53908508649328
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-07-29",
+		"wartosc": 18.389870643460114
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-07-30",
+		"wartosc": 5.670815426154241
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-07-31",
+		"wartosc": 63.54381457123524
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-08-1",
+		"wartosc": 8.732852081266685
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-08-2",
+		"wartosc": 35.92389742852178
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-08-3",
+		"wartosc": 81.3302471114279
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-08-4",
+		"wartosc": 22.752197924482907
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-08-5",
+		"wartosc": 73.53344365053826
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-08-6",
+		"wartosc": 23.908826485536537
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-08-7",
+		"wartosc": 15.289362062738189
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-08-8",
+		"wartosc": 65.44458556911951
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-08-9",
+		"wartosc": 70.43084152392404
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-08-10",
+		"wartosc": 7.534992720757461
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-08-11",
+		"wartosc": 93.92491986315949
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-08-12",
+		"wartosc": 44.80913363202899
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-08-13",
+		"wartosc": 98.09294314378434
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-08-14",
+		"wartosc": 27.679083470805654
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-08-15",
+		"wartosc": 87.29604942490947
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-08-16",
+		"wartosc": 25.401197031752098
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-08-17",
+		"wartosc": 50.96578728480692
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-08-18",
+		"wartosc": 12.775181410356007
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-08-19",
+		"wartosc": 46.351573820721526
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-08-20",
+		"wartosc": 43.9622896999333
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-08-21",
+		"wartosc": 46.61350778614237
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-08-22",
+		"wartosc": 50.02765095807455
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-08-23",
+		"wartosc": 86.959006351333
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-08-24",
+		"wartosc": 74.79218104718505
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-08-25",
+		"wartosc": 66.55366176456911
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-08-26",
+		"wartosc": 96.06233690796357
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-08-27",
+		"wartosc": 18.48180819577101
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-08-28",
+		"wartosc": 82.27914609475305
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-08-29",
+		"wartosc": 56.610267475149726
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-08-30",
+		"wartosc": 41.063096156234444
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-08-31",
+		"wartosc": 35.72958272503055
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-09-1",
+		"wartosc": 50.42737365887242
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-09-2",
+		"wartosc": 63.08231926857797
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-09-3",
+		"wartosc": 91.39096483420282
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-09-4",
+		"wartosc": 97.37814300492748
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-09-5",
+		"wartosc": 64.4443595909365
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-09-6",
+		"wartosc": 55.307636416861314
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-09-7",
+		"wartosc": 48.35483220630221
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-09-8",
+		"wartosc": 58.55809914489991
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-09-9",
+		"wartosc": 59.349506804993
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-09-10",
+		"wartosc": 81.44252088273069
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-09-11",
+		"wartosc": 35.61078443756327
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-09-12",
+		"wartosc": 73.05504308657635
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-09-13",
+		"wartosc": 19.4989063671569
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-09-14",
+		"wartosc": 82.46286197198727
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-09-15",
+		"wartosc": 29.211557706939416
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-09-16",
+		"wartosc": 69.25910900447501
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-09-17",
+		"wartosc": 48.298805958045385
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-09-18",
+		"wartosc": 18.06719175808378
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-09-19",
+		"wartosc": 80.46552651072787
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-09-20",
+		"wartosc": 69.29990438901802
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-09-21",
+		"wartosc": 57.85931239571633
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-09-22",
+		"wartosc": 61.77456059127635
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-09-23",
+		"wartosc": 3.2063604360541786
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-09-24",
+		"wartosc": 2.5533266643516184
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-09-25",
+		"wartosc": 56.52582189228443
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-09-26",
+		"wartosc": 77.07803637823467
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-09-27",
+		"wartosc": 43.82835802797378
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-09-28",
+		"wartosc": 47.99541010226693
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-09-29",
+		"wartosc": 96.25709040666467
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-09-30",
+		"wartosc": 32.68490876533414
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-10-1",
+		"wartosc": 57.19585677958949
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-10-2",
+		"wartosc": 23.517477416959952
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-10-3",
+		"wartosc": 97.328082819729
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-10-4",
+		"wartosc": 0.3779980316468867
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-10-5",
+		"wartosc": 92.22794872578808
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-10-6",
+		"wartosc": 25.346108342568165
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-10-7",
+		"wartosc": 28.601728647557543
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-10-8",
+		"wartosc": 25.91987007770269
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-10-9",
+		"wartosc": 26.072863203748685
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-10-10",
+		"wartosc": 43.29329050114319
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-10-11",
+		"wartosc": 30.249671689641833
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-10-12",
+		"wartosc": 88.01129771961224
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-10-13",
+		"wartosc": 23.587579297137218
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-10-14",
+		"wartosc": 87.8860979253945
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-10-15",
+		"wartosc": 35.14487172500802
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-10-16",
+		"wartosc": 45.341739668031146
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-10-17",
+		"wartosc": 63.68722388901587
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-10-18",
+		"wartosc": 29.405267367522537
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-10-19",
+		"wartosc": 93.2848456552805
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-10-20",
+		"wartosc": 52.17548758260586
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-10-21",
+		"wartosc": 52.24907317303013
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-10-22",
+		"wartosc": 71.29068033851166
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-10-23",
+		"wartosc": 50.390776351739206
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-10-24",
+		"wartosc": 22.48696154274792
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-10-25",
+		"wartosc": 86.08757727544254
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-10-26",
+		"wartosc": 17.33051285530076
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-10-27",
+		"wartosc": 24.138555580596808
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-10-28",
+		"wartosc": 33.00347653783451
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-10-29",
+		"wartosc": 52.16101316005961
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-10-30",
+		"wartosc": 89.9221446259829
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-10-31",
+		"wartosc": 77.0074445101195
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-11-1",
+		"wartosc": 96.35633033412687
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-11-2",
+		"wartosc": 45.7490477044399
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-11-3",
+		"wartosc": 42.92912400929596
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-11-4",
+		"wartosc": 46.461634991473424
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-11-5",
+		"wartosc": 39.986163251574006
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-11-6",
+		"wartosc": 55.705220914158325
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-11-7",
+		"wartosc": 94.74389675533934
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-11-8",
+		"wartosc": 75.69660832398046
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-11-9",
+		"wartosc": 2.4089599685785057
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-11-10",
+		"wartosc": 19.065606183094296
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-11-11",
+		"wartosc": 59.61669303835011
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-11-12",
+		"wartosc": 40.63814582049845
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-11-13",
+		"wartosc": 51.50126755495308
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-11-14",
+		"wartosc": 81.79130827738194
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-11-15",
+		"wartosc": 34.34748674495718
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-11-16",
+		"wartosc": 70.56764597806284
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-11-17",
+		"wartosc": 56.02506851010174
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-11-18",
+		"wartosc": 22.895526272005064
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-11-19",
+		"wartosc": 90.38801577784415
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-11-20",
+		"wartosc": 11.489197638296389
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-11-21",
+		"wartosc": 8.937977856264446
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-11-22",
+		"wartosc": 43.404023562720305
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-11-23",
+		"wartosc": 32.02966637948039
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-11-24",
+		"wartosc": 31.11693194575842
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-11-25",
+		"wartosc": 39.364570126739885
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-11-26",
+		"wartosc": 66.40985614784876
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-11-27",
+		"wartosc": 43.980178158578376
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-11-28",
+		"wartosc": 37.71949681016646
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-11-29",
+		"wartosc": 75.05923287241794
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-11-30",
+		"wartosc": 6.037183844796279
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-12-1",
+		"wartosc": 59.992138611826796
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-12-2",
+		"wartosc": 39.25365147260553
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-12-3",
+		"wartosc": 54.88157801273221
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-12-4",
+		"wartosc": 96.36981630299964
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-12-5",
+		"wartosc": 58.660184446563576
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-12-6",
+		"wartosc": 28.413023433603147
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-12-7",
+		"wartosc": 32.93756892795994
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-12-8",
+		"wartosc": 23.153736054373585
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-12-9",
+		"wartosc": 18.556395200509957
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-12-10",
+		"wartosc": 96.31302218343718
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-12-11",
+		"wartosc": 41.85744161540057
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-12-12",
+		"wartosc": 52.20221393018558
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-12-13",
+		"wartosc": 62.00571582756482
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-12-14",
+		"wartosc": 90.0522588562172
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-12-15",
+		"wartosc": 52.729403915910744
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-12-16",
+		"wartosc": 18.946520283659197
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-12-17",
+		"wartosc": 86.85718067692159
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-12-18",
+		"wartosc": 56.69545531162314
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-12-19",
+		"wartosc": 15.46954404974441
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-12-20",
+		"wartosc": 87.4102760798633
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-12-21",
+		"wartosc": 82.68665279953657
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-12-22",
+		"wartosc": 42.44411442207241
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-12-23",
+		"wartosc": 2.371570146316393
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-12-24",
+		"wartosc": 31.91575086937959
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-12-25",
+		"wartosc": 80.0899816039617
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-12-26",
+		"wartosc": 82.42493046887324
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-12-27",
+		"wartosc": 97.28042963187798
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-12-28",
+		"wartosc": 4.923190482406969
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-12-29",
+		"wartosc": 71.49626326653744
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-12-30",
+		"wartosc": 8.017679262336541
+	},
+	{
+		"crypto": "ethereum",
+		"data": "2022-12-31",
+		"wartosc": 86.32778522990839
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-01-1",
+		"wartosc": 28.099961718846743
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-01-2",
+		"wartosc": 29.106039727688305
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-01-3",
+		"wartosc": 77.85835015752221
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-01-4",
+		"wartosc": 71.08563446258252
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-01-5",
+		"wartosc": 93.26879514538548
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-01-6",
+		"wartosc": 26.776482150692125
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-01-7",
+		"wartosc": 58.123913338360666
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-01-8",
+		"wartosc": 20.906935901043887
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-01-9",
+		"wartosc": 19.890482147953193
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-01-10",
+		"wartosc": 27.233782543238625
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-01-11",
+		"wartosc": 86.0514243639168
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-01-12",
+		"wartosc": 54.72121340773355
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-01-13",
+		"wartosc": 25.692392215089875
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-01-14",
+		"wartosc": 93.5442940642209
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-01-15",
+		"wartosc": 64.79426675417774
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-01-16",
+		"wartosc": 10.693768494595822
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-01-17",
+		"wartosc": 78.04990380268542
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-01-18",
+		"wartosc": 99.82330962717927
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-01-19",
+		"wartosc": 84.46748109972432
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-01-20",
+		"wartosc": 24.78346939945222
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-01-21",
+		"wartosc": 91.71215358774862
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-01-22",
+		"wartosc": 72.09450515034779
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-01-23",
+		"wartosc": 63.80478074144105
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-01-24",
+		"wartosc": 47.06392752179782
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-01-25",
+		"wartosc": 18.05074164169529
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-01-26",
+		"wartosc": 42.77299918211841
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-01-27",
+		"wartosc": 93.14648719707141
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-01-28",
+		"wartosc": 69.09755710081167
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-01-29",
+		"wartosc": 59.571275398630384
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-01-30",
+		"wartosc": 82.62501935938789
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-01-31",
+		"wartosc": 89.96631714216403
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-02-1",
+		"wartosc": 72.5961273561448
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-02-2",
+		"wartosc": 95.45838440962979
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-02-3",
+		"wartosc": 29.228139265217635
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-02-4",
+		"wartosc": 49.04634668531822
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-02-5",
+		"wartosc": 68.2504725593937
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-02-6",
+		"wartosc": 69.74735715092191
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-02-7",
+		"wartosc": 27.37949314221413
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-02-8",
+		"wartosc": 5.42846887823305
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-02-9",
+		"wartosc": 28.948211758927812
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-02-10",
+		"wartosc": 42.307200082047046
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-02-11",
+		"wartosc": 38.28114604876867
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-02-12",
+		"wartosc": 16.066970143626456
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-02-13",
+		"wartosc": 75.51729127543445
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-02-14",
+		"wartosc": 87.79710571696401
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-02-15",
+		"wartosc": 57.80071850929471
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-02-16",
+		"wartosc": 4.825156898185545
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-02-17",
+		"wartosc": 52.100313955867584
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-02-18",
+		"wartosc": 8.495147364264199
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-02-19",
+		"wartosc": 37.66407895397528
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-02-20",
+		"wartosc": 72.1212125131442
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-02-21",
+		"wartosc": 98.70419671723913
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-02-22",
+		"wartosc": 54.539761672024014
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-02-23",
+		"wartosc": 13.647488772740779
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-02-24",
+		"wartosc": 4.601819937059859
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-02-25",
+		"wartosc": 97.75210409590672
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-02-26",
+		"wartosc": 85.22318805674902
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-02-27",
+		"wartosc": 77.53277897991069
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-02-28",
+		"wartosc": 64.81741339640404
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-03-1",
+		"wartosc": 93.50413739661167
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-03-2",
+		"wartosc": 27.470970753920952
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-03-3",
+		"wartosc": 18.603462286794038
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-03-4",
+		"wartosc": 4.04677854689568
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-03-5",
+		"wartosc": 76.04458217673402
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-03-6",
+		"wartosc": 17.86665162260832
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-03-7",
+		"wartosc": 92.36864954699743
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-03-8",
+		"wartosc": 6.729397966759687
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-03-9",
+		"wartosc": 65.5251068504046
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-03-10",
+		"wartosc": 79.09269914940644
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-03-11",
+		"wartosc": 75.34988732691357
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-03-12",
+		"wartosc": 58.677168035106234
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-03-13",
+		"wartosc": 54.85384290783386
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-03-14",
+		"wartosc": 1.269484748693861
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-03-15",
+		"wartosc": 29.25011840196108
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-03-16",
+		"wartosc": 82.57526879788233
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-03-17",
+		"wartosc": 14.34815811201502
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-03-18",
+		"wartosc": 92.71907929863346
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-03-19",
+		"wartosc": 65.83261943581053
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-03-20",
+		"wartosc": 76.76785594426802
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-03-21",
+		"wartosc": 24.74590928027944
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-03-22",
+		"wartosc": 76.5596535118108
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-03-23",
+		"wartosc": 51.2118756649331
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-03-24",
+		"wartosc": 75.78604830906801
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-03-25",
+		"wartosc": 68.29609795526366
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-03-26",
+		"wartosc": 60.11204669313446
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-03-27",
+		"wartosc": 31.984703560901018
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-03-28",
+		"wartosc": 94.16852263099517
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-03-29",
+		"wartosc": 8.987244588666643
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-03-30",
+		"wartosc": 68.566802590097
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-03-31",
+		"wartosc": 44.2657207065551
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-04-1",
+		"wartosc": 88.47862763054624
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-04-2",
+		"wartosc": 34.15339909227959
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-04-3",
+		"wartosc": 77.77907191531308
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-04-4",
+		"wartosc": 22.4919636689394
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-04-5",
+		"wartosc": 66.64777193639702
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-04-6",
+		"wartosc": 56.235803523468356
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-04-7",
+		"wartosc": 82.31841287722112
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-04-8",
+		"wartosc": 84.15454077278946
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-04-9",
+		"wartosc": 39.86624944319095
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-04-10",
+		"wartosc": 88.25194018675819
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-04-11",
+		"wartosc": 62.46283166211952
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-04-12",
+		"wartosc": 68.17962902157579
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-04-13",
+		"wartosc": 77.37195452208772
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-04-14",
+		"wartosc": 99.91670359469616
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-04-15",
+		"wartosc": 9.393347885458292
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-04-16",
+		"wartosc": 31.886502652969195
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-04-17",
+		"wartosc": 88.3226951449904
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-04-18",
+		"wartosc": 65.42600490061399
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-04-19",
+		"wartosc": 98.922702314194
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-04-20",
+		"wartosc": 70.7081667735207
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-04-21",
+		"wartosc": 85.51248995789089
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-04-22",
+		"wartosc": 51.55490544003163
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-04-23",
+		"wartosc": 3.772775117767635
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-04-24",
+		"wartosc": 59.45063915029638
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-04-25",
+		"wartosc": 15.49716844263358
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-04-26",
+		"wartosc": 13.989837295518504
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-04-27",
+		"wartosc": 22.59291697594399
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-04-28",
+		"wartosc": 85.83640762293341
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-04-29",
+		"wartosc": 93.37606492358708
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-04-30",
+		"wartosc": 39.18433566442256
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-05-1",
+		"wartosc": 30.93507012617247
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-05-2",
+		"wartosc": 52.680583933199784
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-05-3",
+		"wartosc": 0.7877921643807628
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-05-4",
+		"wartosc": 38.663040387201455
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-05-5",
+		"wartosc": 86.12945957638746
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-05-6",
+		"wartosc": 67.38652074814829
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-05-7",
+		"wartosc": 47.74301102284475
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-05-8",
+		"wartosc": 62.046149765281115
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-05-9",
+		"wartosc": 8.311607334115667
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-05-10",
+		"wartosc": 48.47024715135895
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-05-11",
+		"wartosc": 86.0876286955726
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-05-12",
+		"wartosc": 59.17940396040322
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-05-13",
+		"wartosc": 70.63357829174302
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-05-14",
+		"wartosc": 80.9277883035063
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-05-15",
+		"wartosc": 87.63142356922546
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-05-16",
+		"wartosc": 34.54800206445974
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-05-17",
+		"wartosc": 42.9712752882057
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-05-18",
+		"wartosc": 68.83512168553054
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-05-19",
+		"wartosc": 94.53879800620639
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-05-20",
+		"wartosc": 19.908898359497982
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-05-21",
+		"wartosc": 45.130392326117644
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-05-22",
+		"wartosc": 70.36712120101554
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-05-23",
+		"wartosc": 91.04510763288343
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-05-24",
+		"wartosc": 73.15783381782299
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-05-25",
+		"wartosc": 78.56161125345098
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-05-26",
+		"wartosc": 38.800037699789236
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-05-27",
+		"wartosc": 24.108893794898023
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-05-28",
+		"wartosc": 97.40309304066217
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-05-29",
+		"wartosc": 27.284163293830343
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-05-30",
+		"wartosc": 18.469066348434083
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-05-31",
+		"wartosc": 82.89241486554182
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-06-1",
+		"wartosc": 69.78700504775847
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-06-2",
+		"wartosc": 20.011178667748286
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-06-3",
+		"wartosc": 46.83818772801165
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-06-4",
+		"wartosc": 15.37245975469399
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-06-5",
+		"wartosc": 92.72056510104676
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-06-6",
+		"wartosc": 38.65183186528598
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-06-7",
+		"wartosc": 93.57442111416754
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-06-8",
+		"wartosc": 23.89430628775986
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-06-9",
+		"wartosc": 48.30824923930355
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-06-10",
+		"wartosc": 12.507610326573815
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-06-11",
+		"wartosc": 66.80992770254166
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-06-12",
+		"wartosc": 2.638012813427504
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-06-13",
+		"wartosc": 75.90506596482581
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-06-14",
+		"wartosc": 39.33696300414409
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-06-15",
+		"wartosc": 83.92606304175847
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-06-16",
+		"wartosc": 5.357357853189515
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-06-17",
+		"wartosc": 73.7352300282999
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-06-18",
+		"wartosc": 94.95834421293212
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-06-19",
+		"wartosc": 92.59776635299264
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-06-20",
+		"wartosc": 84.64288444751664
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-06-21",
+		"wartosc": 87.91357077066344
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-06-22",
+		"wartosc": 23.690712685749382
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-06-23",
+		"wartosc": 78.0233276119896
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-06-24",
+		"wartosc": 40.72986335311883
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-06-25",
+		"wartosc": 22.066457174658073
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-06-26",
+		"wartosc": 10.547832177195836
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-06-27",
+		"wartosc": 66.5765587739465
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-06-28",
+		"wartosc": 4.762348410150974
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-06-29",
+		"wartosc": 95.85045963727757
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-06-30",
+		"wartosc": 35.87814134241827
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-07-1",
+		"wartosc": 71.19504329669056
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-07-2",
+		"wartosc": 81.48556039694618
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-07-3",
+		"wartosc": 16.72853585533256
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-07-4",
+		"wartosc": 75.7729796554029
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-07-5",
+		"wartosc": 42.73099332603483
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-07-6",
+		"wartosc": 81.1678217412534
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-07-7",
+		"wartosc": 69.93258081663394
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-07-8",
+		"wartosc": 17.955032793199187
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-07-9",
+		"wartosc": 25.830219537668796
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-07-10",
+		"wartosc": 36.95465555896966
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-07-11",
+		"wartosc": 17.648043557586803
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-07-12",
+		"wartosc": 15.316561899346537
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-07-13",
+		"wartosc": 63.52408802638409
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-07-14",
+		"wartosc": 13.185687569037729
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-07-15",
+		"wartosc": 56.87781659749598
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-07-16",
+		"wartosc": 28.740215012176805
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-07-17",
+		"wartosc": 37.39542400931468
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-07-18",
+		"wartosc": 32.58723343097745
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-07-19",
+		"wartosc": 56.34432569695402
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-07-20",
+		"wartosc": 87.80770467570169
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-07-21",
+		"wartosc": 66.4020758604256
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-07-22",
+		"wartosc": 5.07804480352958
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-07-23",
+		"wartosc": 53.59122958969911
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-07-24",
+		"wartosc": 53.80989369275968
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-07-25",
+		"wartosc": 5.731595231387132
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-07-26",
+		"wartosc": 33.741460044272785
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-07-27",
+		"wartosc": 76.39662750878597
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-07-28",
+		"wartosc": 78.41194110510577
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-07-29",
+		"wartosc": 93.7227355668056
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-07-30",
+		"wartosc": 96.69514674899293
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-07-31",
+		"wartosc": 60.716134451446194
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-08-1",
+		"wartosc": 70.95779000121584
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-08-2",
+		"wartosc": 14.768231428500588
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-08-3",
+		"wartosc": 8.370369906643704
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-08-4",
+		"wartosc": 51.49083973120139
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-08-5",
+		"wartosc": 60.13298105901372
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-08-6",
+		"wartosc": 44.36778331675739
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-08-7",
+		"wartosc": 28.21089776046053
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-08-8",
+		"wartosc": 78.21645669599113
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-08-9",
+		"wartosc": 68.97846686595055
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-08-10",
+		"wartosc": 12.770609190773484
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-08-11",
+		"wartosc": 81.19295090404424
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-08-12",
+		"wartosc": 26.199754163456255
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-08-13",
+		"wartosc": 19.86457994551991
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-08-14",
+		"wartosc": 70.16550015389902
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-08-15",
+		"wartosc": 14.80022243465784
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-08-16",
+		"wartosc": 62.06711570718391
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-08-17",
+		"wartosc": 75.06358005025507
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-08-18",
+		"wartosc": 91.40476841472267
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-08-19",
+		"wartosc": 69.61521636144316
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-08-20",
+		"wartosc": 58.9971280075517
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-08-21",
+		"wartosc": 16.148424726320364
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-08-22",
+		"wartosc": 99.91524524947985
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-08-23",
+		"wartosc": 5.543695049353192
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-08-24",
+		"wartosc": 35.99273776001337
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-08-25",
+		"wartosc": 9.191635510583374
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-08-26",
+		"wartosc": 40.62199799187336
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-08-27",
+		"wartosc": 80.05982323336805
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-08-28",
+		"wartosc": 91.00126344652186
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-08-29",
+		"wartosc": 82.40019040882498
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-08-30",
+		"wartosc": 21.110022629346936
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-08-31",
+		"wartosc": 6.182872279726093
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-09-1",
+		"wartosc": 89.05415358680142
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-09-2",
+		"wartosc": 37.988013637575555
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-09-3",
+		"wartosc": 17.332895780120715
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-09-4",
+		"wartosc": 75.93167494090514
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-09-5",
+		"wartosc": 7.513952115911993
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-09-6",
+		"wartosc": 75.02731165428457
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-09-7",
+		"wartosc": 24.0795842621222
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-09-8",
+		"wartosc": 48.418230110482426
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-09-9",
+		"wartosc": 6.718794600701927
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-09-10",
+		"wartosc": 81.765410097722
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-09-11",
+		"wartosc": 72.95652006984395
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-09-12",
+		"wartosc": 32.73921275299618
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-09-13",
+		"wartosc": 43.326050410073755
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-09-14",
+		"wartosc": 64.74685608632254
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-09-15",
+		"wartosc": 64.66969829254697
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-09-16",
+		"wartosc": 26.436916174159506
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-09-17",
+		"wartosc": 84.58251052794665
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-09-18",
+		"wartosc": 68.74901302314468
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-09-19",
+		"wartosc": 39.0020260879749
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-09-20",
+		"wartosc": 20.284855356024202
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-09-21",
+		"wartosc": 73.5040297786427
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-09-22",
+		"wartosc": 27.506229731855903
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-09-23",
+		"wartosc": 53.22917038681367
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-09-24",
+		"wartosc": 12.486837145303209
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-09-25",
+		"wartosc": 13.685616325950845
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-09-26",
+		"wartosc": 84.69139208047625
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-09-27",
+		"wartosc": 9.88061290945459
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-09-28",
+		"wartosc": 84.37821983943576
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-09-29",
+		"wartosc": 1.9542547076716987
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-09-30",
+		"wartosc": 89.19745950747517
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-10-1",
+		"wartosc": 30.74501379991417
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-10-2",
+		"wartosc": 92.63967609831295
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-10-3",
+		"wartosc": 6.954237181444434
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-10-4",
+		"wartosc": 21.460018031511673
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-10-5",
+		"wartosc": 83.13322011084843
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-10-6",
+		"wartosc": 4.704021576711548
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-10-7",
+		"wartosc": 31.322342574999062
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-10-8",
+		"wartosc": 12.556403689338103
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-10-9",
+		"wartosc": 81.35392220278605
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-10-10",
+		"wartosc": 28.58338026798235
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-10-11",
+		"wartosc": 10.804885754106097
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-10-12",
+		"wartosc": 49.6477267523882
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-10-13",
+		"wartosc": 61.93042966674434
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-10-14",
+		"wartosc": 24.900303696133342
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-10-15",
+		"wartosc": 87.55396907638324
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-10-16",
+		"wartosc": 8.058342860844437
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-10-17",
+		"wartosc": 3.584039103393377
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-10-18",
+		"wartosc": 86.55337989882324
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-10-19",
+		"wartosc": 58.79155705888661
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-10-20",
+		"wartosc": 95.99321776404808
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-10-21",
+		"wartosc": 28.794648243878406
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-10-22",
+		"wartosc": 77.69830799093411
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-10-23",
+		"wartosc": 98.7454587402836
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-10-24",
+		"wartosc": 12.926389054134567
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-10-25",
+		"wartosc": 37.75001454579672
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-10-26",
+		"wartosc": 92.93922988439279
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-10-27",
+		"wartosc": 74.74742168947219
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-10-28",
+		"wartosc": 93.90414519365538
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-10-29",
+		"wartosc": 96.43388660073522
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-10-30",
+		"wartosc": 50.077671116929665
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-10-31",
+		"wartosc": 37.432243360613505
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-11-1",
+		"wartosc": 57.89704675962082
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-11-2",
+		"wartosc": 20.22958957481711
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-11-3",
+		"wartosc": 61.64707216368362
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-11-4",
+		"wartosc": 49.26354661686434
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-11-5",
+		"wartosc": 0.0026451332075128065
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-11-6",
+		"wartosc": 23.341027175065587
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-11-7",
+		"wartosc": 28.967469274629032
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-11-8",
+		"wartosc": 85.7290705024808
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-11-9",
+		"wartosc": 29.5901281117257
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-11-10",
+		"wartosc": 69.50296318872724
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-11-11",
+		"wartosc": 42.33904584806814
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-11-12",
+		"wartosc": 81.9603687326475
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-11-13",
+		"wartosc": 59.286048005600044
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-11-14",
+		"wartosc": 83.01205125587518
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-11-15",
+		"wartosc": 30.587912212884994
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-11-16",
+		"wartosc": 24.71097286580104
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-11-17",
+		"wartosc": 42.889854698858024
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-11-18",
+		"wartosc": 9.265988113676427
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-11-19",
+		"wartosc": 12.973372417538641
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-11-20",
+		"wartosc": 0.40546914225760844
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-11-21",
+		"wartosc": 88.46398304600686
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-11-22",
+		"wartosc": 29.85332827423064
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-11-23",
+		"wartosc": 15.572220542221382
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-11-24",
+		"wartosc": 32.36626654006607
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-11-25",
+		"wartosc": 14.656809741360144
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-11-26",
+		"wartosc": 88.1170581463581
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-11-27",
+		"wartosc": 27.473193512866146
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-11-28",
+		"wartosc": 45.6784108273826
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-11-29",
+		"wartosc": 21.525573992404578
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-11-30",
+		"wartosc": 93.75718477828714
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-12-1",
+		"wartosc": 49.088951698872776
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-12-2",
+		"wartosc": 0.772232391326888
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-12-3",
+		"wartosc": 62.88857295555912
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-12-4",
+		"wartosc": 71.58372505909662
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-12-5",
+		"wartosc": 94.00725248690922
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-12-6",
+		"wartosc": 63.36467144410838
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-12-7",
+		"wartosc": 22.5807001494855
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-12-8",
+		"wartosc": 93.62185543079562
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-12-9",
+		"wartosc": 27.50993445788059
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-12-10",
+		"wartosc": 50.260629198322285
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-12-11",
+		"wartosc": 73.6654100159461
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-12-12",
+		"wartosc": 73.9828885232566
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-12-13",
+		"wartosc": 76.39873933014529
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-12-14",
+		"wartosc": 8.433752292850084
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-12-15",
+		"wartosc": 73.71037503202622
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-12-16",
+		"wartosc": 73.75791175078956
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-12-17",
+		"wartosc": 73.71712610264012
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-12-18",
+		"wartosc": 93.98646284758645
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-12-19",
+		"wartosc": 65.47509337257323
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-12-20",
+		"wartosc": 99.68581982921363
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-12-21",
+		"wartosc": 53.56269859206384
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-12-22",
+		"wartosc": 16.262774148529125
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-12-23",
+		"wartosc": 62.770760061905605
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-12-24",
+		"wartosc": 34.30733525954794
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-12-25",
+		"wartosc": 82.32416090856441
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-12-26",
+		"wartosc": 19.1314781823295
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-12-27",
+		"wartosc": 9.463977557568604
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-12-28",
+		"wartosc": 40.59747826207483
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-12-29",
+		"wartosc": 52.92508568008814
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-12-30",
+		"wartosc": 58.59596089286463
+	},
+	{
+		"crypto": "bitcoin",
+		"data": "2022-12-31",
+		"wartosc": 35.82914223761482
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-01-1",
+		"wartosc": 69.00683570735879
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-01-2",
+		"wartosc": 97.32617436600846
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-01-3",
+		"wartosc": 46.29826839260651
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-01-4",
+		"wartosc": 33.740852482428686
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-01-5",
+		"wartosc": 35.84488011641962
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-01-6",
+		"wartosc": 77.7749155985902
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-01-7",
+		"wartosc": 47.26792452130648
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-01-8",
+		"wartosc": 81.85464663384718
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-01-9",
+		"wartosc": 26.345597765668096
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-01-10",
+		"wartosc": 44.30191384533488
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-01-11",
+		"wartosc": 6.359733751669161
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-01-12",
+		"wartosc": 16.234448953947478
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-01-13",
+		"wartosc": 71.07642349951328
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-01-14",
+		"wartosc": 37.795710411279785
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-01-15",
+		"wartosc": 55.084745222361285
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-01-16",
+		"wartosc": 5.99533182629719
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-01-17",
+		"wartosc": 48.60436907917291
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-01-18",
+		"wartosc": 41.32933742255569
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-01-19",
+		"wartosc": 44.28642266416729
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-01-20",
+		"wartosc": 54.49660509202483
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-01-21",
+		"wartosc": 67.700723910329
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-01-22",
+		"wartosc": 43.48320111230943
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-01-23",
+		"wartosc": 97.68098853840664
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-01-24",
+		"wartosc": 91.75855515781599
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-01-25",
+		"wartosc": 39.67801879148149
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-01-26",
+		"wartosc": 91.26015188331242
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-01-27",
+		"wartosc": 72.68688930915943
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-01-28",
+		"wartosc": 61.611733494942754
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-01-29",
+		"wartosc": 58.01573633960642
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-01-30",
+		"wartosc": 79.4072480153302
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-01-31",
+		"wartosc": 7.8992521371344715
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-02-1",
+		"wartosc": 86.27660291656174
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-02-2",
+		"wartosc": 49.60707081936542
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-02-3",
+		"wartosc": 33.245312759337885
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-02-4",
+		"wartosc": 38.29142199309099
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-02-5",
+		"wartosc": 63.65571720098
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-02-6",
+		"wartosc": 57.235614325018446
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-02-7",
+		"wartosc": 18.53517438351677
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-02-8",
+		"wartosc": 83.41540584762635
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-02-9",
+		"wartosc": 72.2876461204998
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-02-10",
+		"wartosc": 16.63192836979355
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-02-11",
+		"wartosc": 15.615590866233209
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-02-12",
+		"wartosc": 99.8469227433082
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-02-13",
+		"wartosc": 19.723974639118545
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-02-14",
+		"wartosc": 44.735321373488325
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-02-15",
+		"wartosc": 96.7452492246875
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-02-16",
+		"wartosc": 89.62729425933024
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-02-17",
+		"wartosc": 66.27413907293767
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-02-18",
+		"wartosc": 78.21601055926305
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-02-19",
+		"wartosc": 26.384104886148485
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-02-20",
+		"wartosc": 11.00550403869509
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-02-21",
+		"wartosc": 36.3942743535423
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-02-22",
+		"wartosc": 39.67663220056603
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-02-23",
+		"wartosc": 2.9179721956882343
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-02-24",
+		"wartosc": 42.07952065974418
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-02-25",
+		"wartosc": 85.07376560167576
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-02-26",
+		"wartosc": 34.63246723844095
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-02-27",
+		"wartosc": 49.360072577400075
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-02-28",
+		"wartosc": 70.6234761630131
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-03-1",
+		"wartosc": 58.49426235835793
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-03-2",
+		"wartosc": 39.62521869795632
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-03-3",
+		"wartosc": 11.1432543156607
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-03-4",
+		"wartosc": 28.832056383774173
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-03-5",
+		"wartosc": 19.350593013228767
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-03-6",
+		"wartosc": 13.490752990106557
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-03-7",
+		"wartosc": 76.0026989708543
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-03-8",
+		"wartosc": 83.04753548037837
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-03-9",
+		"wartosc": 83.3626718907312
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-03-10",
+		"wartosc": 20.389785885368838
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-03-11",
+		"wartosc": 22.784541317067642
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-03-12",
+		"wartosc": 58.85602947333965
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-03-13",
+		"wartosc": 85.82338650204532
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-03-14",
+		"wartosc": 69.73541973188631
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-03-15",
+		"wartosc": 61.59239954395039
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-03-16",
+		"wartosc": 17.054200382028494
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-03-17",
+		"wartosc": 45.48312138833766
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-03-18",
+		"wartosc": 44.55325816692704
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-03-19",
+		"wartosc": 48.06351053618416
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-03-20",
+		"wartosc": 81.62872614279702
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-03-21",
+		"wartosc": 60.61898697476158
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-03-22",
+		"wartosc": 20.239668713305225
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-03-23",
+		"wartosc": 80.83639620156345
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-03-24",
+		"wartosc": 15.592203791728675
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-03-25",
+		"wartosc": 12.839529373109148
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-03-26",
+		"wartosc": 76.20688398072859
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-03-27",
+		"wartosc": 83.03847570716387
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-03-28",
+		"wartosc": 1.527870652293628
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-03-29",
+		"wartosc": 2.1158077797056363
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-03-30",
+		"wartosc": 0.22351770051951547
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-03-31",
+		"wartosc": 66.43899306319983
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-04-1",
+		"wartosc": 86.52347880549401
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-04-2",
+		"wartosc": 82.38119657328227
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-04-3",
+		"wartosc": 86.02744133088969
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-04-4",
+		"wartosc": 12.327826829377075
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-04-5",
+		"wartosc": 37.56392763977991
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-04-6",
+		"wartosc": 89.76509098038406
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-04-7",
+		"wartosc": 64.89052940077966
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-04-8",
+		"wartosc": 34.27579498020818
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-04-9",
+		"wartosc": 5.817246402932108
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-04-10",
+		"wartosc": 16.900115557856733
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-04-11",
+		"wartosc": 36.95836641032968
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-04-12",
+		"wartosc": 55.81634022479498
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-04-13",
+		"wartosc": 41.29269988247757
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-04-14",
+		"wartosc": 0.41731476218342944
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-04-15",
+		"wartosc": 18.403855325955742
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-04-16",
+		"wartosc": 93.50329345654542
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-04-17",
+		"wartosc": 45.96290243374062
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-04-18",
+		"wartosc": 69.76806113654123
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-04-19",
+		"wartosc": 59.09434931699889
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-04-20",
+		"wartosc": 39.66342510445935
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-04-21",
+		"wartosc": 0.22665198579312484
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-04-22",
+		"wartosc": 37.15640576624224
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-04-23",
+		"wartosc": 50.829253978191936
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-04-24",
+		"wartosc": 91.86748518542274
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-04-25",
+		"wartosc": 43.73986752622974
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-04-26",
+		"wartosc": 26.02560252261952
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-04-27",
+		"wartosc": 33.42782821458441
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-04-28",
+		"wartosc": 36.46916497655495
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-04-29",
+		"wartosc": 55.734724103495445
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-04-30",
+		"wartosc": 92.97820618166541
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-05-1",
+		"wartosc": 29.2710323947839
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-05-2",
+		"wartosc": 7.462545854621627
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-05-3",
+		"wartosc": 33.08403553754704
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-05-4",
+		"wartosc": 62.159512589945365
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-05-5",
+		"wartosc": 62.953977786093105
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-05-6",
+		"wartosc": 54.78253002348137
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-05-7",
+		"wartosc": 21.211732707620822
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-05-8",
+		"wartosc": 46.17383239223327
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-05-9",
+		"wartosc": 64.77646914192606
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-05-10",
+		"wartosc": 37.8986110127616
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-05-11",
+		"wartosc": 71.14692269613654
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-05-12",
+		"wartosc": 47.30633116508174
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-05-13",
+		"wartosc": 15.112720873793183
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-05-14",
+		"wartosc": 75.87037820206774
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-05-15",
+		"wartosc": 29.61471897325776
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-05-16",
+		"wartosc": 51.11801676518195
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-05-17",
+		"wartosc": 6.635616437445679
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-05-18",
+		"wartosc": 90.5682499510507
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-05-19",
+		"wartosc": 24.77346399346869
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-05-20",
+		"wartosc": 81.0682188359273
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-05-21",
+		"wartosc": 31.240400630231946
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-05-22",
+		"wartosc": 81.18961228342974
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-05-23",
+		"wartosc": 31.33846298303551
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-05-24",
+		"wartosc": 85.54833256078945
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-05-25",
+		"wartosc": 90.87748991372581
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-05-26",
+		"wartosc": 64.29756392018969
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-05-27",
+		"wartosc": 93.11378758290985
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-05-28",
+		"wartosc": 47.54876138116182
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-05-29",
+		"wartosc": 9.095758231381822
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-05-30",
+		"wartosc": 51.79712671825156
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-05-31",
+		"wartosc": 63.5051273398499
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-06-1",
+		"wartosc": 86.34005761936791
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-06-2",
+		"wartosc": 44.99398529189054
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-06-3",
+		"wartosc": 54.07328774558427
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-06-4",
+		"wartosc": 20.169768243831676
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-06-5",
+		"wartosc": 30.690943792942594
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-06-6",
+		"wartosc": 19.735185043544167
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-06-7",
+		"wartosc": 10.73389534987379
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-06-8",
+		"wartosc": 52.07900612974608
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-06-9",
+		"wartosc": 30.692765895661722
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-06-10",
+		"wartosc": 69.14747333006088
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-06-11",
+		"wartosc": 42.46392935236085
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-06-12",
+		"wartosc": 99.16242512011686
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-06-13",
+		"wartosc": 73.1501002879339
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-06-14",
+		"wartosc": 18.390696195289724
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-06-15",
+		"wartosc": 26.278064729374528
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-06-16",
+		"wartosc": 30.423618932271523
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-06-17",
+		"wartosc": 13.770558587442094
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-06-18",
+		"wartosc": 82.76544498582881
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-06-19",
+		"wartosc": 4.137086598844553
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-06-20",
+		"wartosc": 6.647894179833447
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-06-21",
+		"wartosc": 36.32431362894488
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-06-22",
+		"wartosc": 28.69052908131804
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-06-23",
+		"wartosc": 6.99027797273597
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-06-24",
+		"wartosc": 0.7451337529339019
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-06-25",
+		"wartosc": 79.6419961347674
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-06-26",
+		"wartosc": 66.09685883142969
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-06-27",
+		"wartosc": 27.71756817307709
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-06-28",
+		"wartosc": 22.382424331815407
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-06-29",
+		"wartosc": 43.20709785178853
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-06-30",
+		"wartosc": 87.4237839188207
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-07-1",
+		"wartosc": 61.00071880410947
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-07-2",
+		"wartosc": 40.67095722882412
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-07-3",
+		"wartosc": 9.434281851613813
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-07-4",
+		"wartosc": 11.374752835843992
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-07-5",
+		"wartosc": 28.90587210560298
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-07-6",
+		"wartosc": 29.505826505479217
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-07-7",
+		"wartosc": 55.46615792145286
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-07-8",
+		"wartosc": 46.167286498336566
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-07-9",
+		"wartosc": 41.02547852243434
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-07-10",
+		"wartosc": 86.16513924851307
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-07-11",
+		"wartosc": 61.09639601693433
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-07-12",
+		"wartosc": 60.01550098687045
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-07-13",
+		"wartosc": 87.64246203944926
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-07-14",
+		"wartosc": 53.90566512964923
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-07-15",
+		"wartosc": 76.88753220572222
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-07-16",
+		"wartosc": 5.466595330687052
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-07-17",
+		"wartosc": 25.64263979708723
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-07-18",
+		"wartosc": 78.20530554440141
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-07-19",
+		"wartosc": 94.16924084126497
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-07-20",
+		"wartosc": 7.362391613327901
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-07-21",
+		"wartosc": 49.326236432128546
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-07-22",
+		"wartosc": 76.95769861415755
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-07-23",
+		"wartosc": 85.72546691609178
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-07-24",
+		"wartosc": 59.41062599315754
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-07-25",
+		"wartosc": 84.87771275304638
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-07-26",
+		"wartosc": 1.6276272691599702
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-07-27",
+		"wartosc": 86.48570776075746
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-07-28",
+		"wartosc": 28.60295253135463
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-07-29",
+		"wartosc": 1.8972106520637189
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-07-30",
+		"wartosc": 22.79970011373116
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-07-31",
+		"wartosc": 3.3615971970511582
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-08-1",
+		"wartosc": 12.716294186399857
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-08-2",
+		"wartosc": 90.33573639257484
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-08-3",
+		"wartosc": 64.39013942607987
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-08-4",
+		"wartosc": 32.482982461255425
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-08-5",
+		"wartosc": 19.923421973325972
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-08-6",
+		"wartosc": 57.90753309110552
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-08-7",
+		"wartosc": 18.852026364364562
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-08-8",
+		"wartosc": 80.60663240732148
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-08-9",
+		"wartosc": 56.5362624189931
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-08-10",
+		"wartosc": 98.27116306170471
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-08-11",
+		"wartosc": 10.666959751666273
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-08-12",
+		"wartosc": 8.636748360017176
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-08-13",
+		"wartosc": 29.267540934665103
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-08-14",
+		"wartosc": 20.506017308451764
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-08-15",
+		"wartosc": 90.63033566659739
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-08-16",
+		"wartosc": 24.237166458955684
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-08-17",
+		"wartosc": 2.7412035057723827
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-08-18",
+		"wartosc": 54.92771517403521
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-08-19",
+		"wartosc": 99.1868074259868
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-08-20",
+		"wartosc": 67.80433491266729
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-08-21",
+		"wartosc": 54.629395699689766
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-08-22",
+		"wartosc": 42.77600402936741
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-08-23",
+		"wartosc": 26.947422448658152
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-08-24",
+		"wartosc": 39.89745748091016
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-08-25",
+		"wartosc": 73.74698659799859
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-08-26",
+		"wartosc": 50.38042487883294
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-08-27",
+		"wartosc": 24.44527161567982
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-08-28",
+		"wartosc": 78.19768741080209
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-08-29",
+		"wartosc": 69.41266390674986
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-08-30",
+		"wartosc": 52.04241260204687
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-08-31",
+		"wartosc": 96.0532516906174
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-09-1",
+		"wartosc": 91.40221593599243
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-09-2",
+		"wartosc": 96.72448539740466
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-09-3",
+		"wartosc": 40.60431092848311
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-09-4",
+		"wartosc": 45.00529632674157
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-09-5",
+		"wartosc": 50.32864306480205
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-09-6",
+		"wartosc": 90.10567764236943
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-09-7",
+		"wartosc": 94.16030158465614
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-09-8",
+		"wartosc": 36.62093030736917
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-09-9",
+		"wartosc": 21.58991824662504
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-09-10",
+		"wartosc": 50.05105635419724
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-09-11",
+		"wartosc": 72.91262214057596
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-09-12",
+		"wartosc": 60.069723581210525
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-09-13",
+		"wartosc": 18.17609136501006
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-09-14",
+		"wartosc": 87.2400570325447
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-09-15",
+		"wartosc": 34.61745464324741
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-09-16",
+		"wartosc": 13.153918385716645
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-09-17",
+		"wartosc": 10.284798005598518
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-09-18",
+		"wartosc": 26.014810492369023
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-09-19",
+		"wartosc": 43.2092930336965
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-09-20",
+		"wartosc": 55.37480869221394
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-09-21",
+		"wartosc": 76.48384722775666
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-09-22",
+		"wartosc": 16.797618803366966
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-09-23",
+		"wartosc": 63.23168618036479
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-09-24",
+		"wartosc": 98.11355406201298
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-09-25",
+		"wartosc": 54.51903126187045
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-09-26",
+		"wartosc": 97.29177400790701
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-09-27",
+		"wartosc": 4.170852535370684
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-09-28",
+		"wartosc": 11.605524180408988
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-09-29",
+		"wartosc": 47.445898430041545
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-09-30",
+		"wartosc": 70.72059892974411
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-10-1",
+		"wartosc": 50.55336119104932
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-10-2",
+		"wartosc": 48.44003060723574
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-10-3",
+		"wartosc": 3.531825001469202
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-10-4",
+		"wartosc": 82.82228266132756
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-10-5",
+		"wartosc": 55.44983525742333
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-10-6",
+		"wartosc": 13.666563995022173
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-10-7",
+		"wartosc": 66.01250208673109
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-10-8",
+		"wartosc": 26.817092981932177
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-10-9",
+		"wartosc": 67.10125541360492
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-10-10",
+		"wartosc": 72.51255916198724
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-10-11",
+		"wartosc": 70.88501039280888
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-10-12",
+		"wartosc": 44.17034973259557
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-10-13",
+		"wartosc": 30.79136063884571
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-10-14",
+		"wartosc": 63.61236111715067
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-10-15",
+		"wartosc": 53.599994128432215
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-10-16",
+		"wartosc": 84.59411800726696
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-10-17",
+		"wartosc": 46.08410765674018
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-10-18",
+		"wartosc": 91.70986747787673
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-10-19",
+		"wartosc": 85.0842628132866
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-10-20",
+		"wartosc": 4.049053475983855
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-10-21",
+		"wartosc": 31.651300310444853
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-10-22",
+		"wartosc": 97.5831822745658
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-10-23",
+		"wartosc": 3.622789753817779
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-10-24",
+		"wartosc": 89.30300567512886
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-10-25",
+		"wartosc": 71.49964993910845
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-10-26",
+		"wartosc": 2.3849169515072877
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-10-27",
+		"wartosc": 81.4838693262376
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-10-28",
+		"wartosc": 43.170651422318265
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-10-29",
+		"wartosc": 14.786203008955257
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-10-30",
+		"wartosc": 92.11699518199809
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-10-31",
+		"wartosc": 45.51732216748279
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-11-1",
+		"wartosc": 96.88406471728916
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-11-2",
+		"wartosc": 33.26885521685088
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-11-3",
+		"wartosc": 3.4698086702154907
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-11-4",
+		"wartosc": 33.46279898558608
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-11-5",
+		"wartosc": 42.606546746055706
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-11-6",
+		"wartosc": 3.420593611584133
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-11-7",
+		"wartosc": 1.9208238099950536
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-11-8",
+		"wartosc": 89.76865903926195
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-11-9",
+		"wartosc": 34.74888474764468
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-11-10",
+		"wartosc": 47.69623014756492
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-11-11",
+		"wartosc": 97.08719078410732
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-11-12",
+		"wartosc": 62.41687672899974
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-11-13",
+		"wartosc": 69.1766361860826
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-11-14",
+		"wartosc": 11.161937671771716
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-11-15",
+		"wartosc": 40.8813806797955
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-11-16",
+		"wartosc": 92.5763201328613
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-11-17",
+		"wartosc": 78.50794386820961
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-11-18",
+		"wartosc": 0.6534563545449235
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-11-19",
+		"wartosc": 43.91381411077706
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-11-20",
+		"wartosc": 50.46352077781195
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-11-21",
+		"wartosc": 90.44716464405995
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-11-22",
+		"wartosc": 27.510537243833877
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-11-23",
+		"wartosc": 73.34402921348209
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-11-24",
+		"wartosc": 91.96225510748705
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-11-25",
+		"wartosc": 78.28958745906877
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-11-26",
+		"wartosc": 92.47739090248301
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-11-27",
+		"wartosc": 0.2247350416813898
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-11-28",
+		"wartosc": 36.54282920223339
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-11-29",
+		"wartosc": 69.05921613023793
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-11-30",
+		"wartosc": 20.10150990461137
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-12-1",
+		"wartosc": 64.17492814197485
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-12-2",
+		"wartosc": 99.69189651497499
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-12-3",
+		"wartosc": 81.86975172315985
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-12-4",
+		"wartosc": 58.80003832992018
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-12-5",
+		"wartosc": 30.27883817316155
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-12-6",
+		"wartosc": 54.006866424815534
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-12-7",
+		"wartosc": 20.399748719356523
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-12-8",
+		"wartosc": 74.56574442838533
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-12-9",
+		"wartosc": 64.33693386677174
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-12-10",
+		"wartosc": 77.30429022169352
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-12-11",
+		"wartosc": 93.52658457216619
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-12-12",
+		"wartosc": 45.683138001417504
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-12-13",
+		"wartosc": 6.124729858647515
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-12-14",
+		"wartosc": 7.890432301098027
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-12-15",
+		"wartosc": 43.57358757744891
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-12-16",
+		"wartosc": 88.31983328091493
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-12-17",
+		"wartosc": 67.08421884854756
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-12-18",
+		"wartosc": 69.28243604376294
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-12-19",
+		"wartosc": 16.041901146225612
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-12-20",
+		"wartosc": 90.70288466729248
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-12-21",
+		"wartosc": 6.384871223816568
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-12-22",
+		"wartosc": 38.829643793804
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-12-23",
+		"wartosc": 22.437802437327647
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-12-24",
+		"wartosc": 38.67638376931013
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-12-25",
+		"wartosc": 72.52104151219498
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-12-26",
+		"wartosc": 78.97969561560735
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-12-27",
+		"wartosc": 85.94255072898082
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-12-28",
+		"wartosc": 3.8306489581503955
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-12-29",
+		"wartosc": 26.167840845308387
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-12-30",
+		"wartosc": 76.19914450385006
+	},
+	{
+		"crypto": "tether",
+		"data": "2022-12-31",
+		"wartosc": 55.312526806183996
+	}
+]
